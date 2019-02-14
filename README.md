@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## 这个一个编程小白的代码仓库
+
+本仓库全为示例性代码，没有实际的商用价值。
 
 You can use the [editor on GitHub](https://github.com/dankemeng/dkm520/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
